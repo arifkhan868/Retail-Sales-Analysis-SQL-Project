@@ -212,5 +212,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ### Author 
+
 - **Name : Ariful Islam**,
 - **Emali : Arifkhan.nsd14@gmail.com**
